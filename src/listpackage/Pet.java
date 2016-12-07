@@ -1,7 +1,7 @@
 package listpackage;
 
 /**
- * Pet class. This class represents a single pet.
+ * Pet class. This class represents a single pet. Comment 2.
  *
  * @author 55jphillip
  */
